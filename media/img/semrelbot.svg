@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 300 300" width="300px" height="300px" preserveAspectRatio="xMinYMin" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="149.517" cy="142.452" r="23.738" id="gradient-0" gradientTransform="matrix(1.952972, 0, 0, 1.952972, -146.594169, -124.31701)">
+      <stop offset="0" style="stop-color: rgba(255, 0, 72, 1)"/>
+      <stop offset="1" style="stop-color: rgba(153, 0, 43, 1)"/>
+    </radialGradient>
+  </defs>
+  <rect x="0.243" y="-0.332" width="301.94" height="301.28" style="paint-order: stroke; stroke-opacity: 0; stroke: rgb(0, 0, 0); fill: rgb(223, 230, 255);" transform="matrix(0, -1, 1, 0, -1.929594, 301.143158)"/>
+  <path d="M 102.897 202.858 L 53.082 117.229 L 102.915 31.595 L 202.568 31.595 L 252.382 117.224 L 202.568 202.858 Z" style="stroke: rgb(193, 116, 0); paint-order: fill; fill: rgb(255, 224, 173); stroke-width: 4px;"/>
+  <path d="M 113.696 234.346 L 74.593 133.182 L 113.696 32.019 L 191.893 32.019 L 231.001 133.182 L 191.893 234.346 Z" style="paint-order: fill; fill-opacity: 0.5; fill: rgb(248, 173, 255); stroke: rgba(148, 0, 193, 0.69); stroke-width: 4px;"/>
+  <path d="M 122.304 269.673 L 91.115 150.529 L 121.969 31.686 L 184.029 31.99 L 215.218 151.14 L 184.364 269.976 Z" style="paint-order: fill; fill-opacity: 0.5; stroke: rgba(0, 67, 193, 0.69); fill: rgb(173, 187, 255); stroke-width: 4px;"/>
+  <circle style="paint-order: stroke markers; stroke-miterlimit: 1; fill-rule: nonzero; fill: url(#gradient-0); stroke-opacity: 0.4; stroke: rgb(105, 32, 189); stroke-width: 8px; fill-opacity: 0.96;" cx="145.407" cy="153.888" r="46.36" transform="matrix(0, -0.584336, 0.614303, 0, 58.74968, 238.359665)"/>
+</svg>

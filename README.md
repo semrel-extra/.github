@@ -1,2 +1,2 @@
 # .github
-@semrel-extra landing page
+@semrel-extra org profile
