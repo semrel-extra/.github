@@ -20,7 +20,6 @@ Your case may be a known design limitation. -->
 <!-- Code example or demo repo / commit reference would be great. 
 We always appreciate it, it truly saves time -->
 
-
 ## Specifications
 - version:
 - platform:
