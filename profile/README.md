@@ -4,3 +4,5 @@ CI/CD automation experiments inspired by the ideas of [conventional commits](htt
 To build a better release experience than we currently have.  
 To save people's time.  
 To enjoy.
+
+<sub>If you have an idea/question that is difficult to relate to a specific repo,<br/>feel free to dive into [discussions](https://github.com/semrel-extra/.github/discussions) or to open an [issue right here](https://github.com/semrel-extra/.github/issues) </sub>
