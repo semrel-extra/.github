@@ -21,5 +21,7 @@ Your case may be a known design limitation. -->
 We always appreciate it, it truly saves time -->
 
 ## Specifications
+<!-- Mention the lib version, OS version, node -v, npm -v and ci spec -->
 - version:
 - platform:
+- ci:
