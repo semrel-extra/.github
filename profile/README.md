@@ -1,7 +1,7 @@
 <h1>Semantic<br/>Release<br/>Extra</h1>
 
 CI/CD automation experiments driven by the ideas of [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/), [semantic releases](https://github.com/semantic-release/semantic-release) and [monorepos](https://en.wikipedia.org/wiki/Monorepo).  
-To build a better release workflow than we currently have. To save time. To self-learn.
+To build better release workflows than we currently have.
 
 ## 🤖 📦 🚀
 
