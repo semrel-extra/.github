@@ -4,5 +4,8 @@
   ],
   "automerge": true,
   "automergeType": "pr",
-  "rangeStrategy": "replace"
+  "rangeStrategy": "replace",
+  "major": {
+    "dependencyDashboardApproval": true
+  }
 }
